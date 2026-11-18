@@ -22,8 +22,8 @@ I'm an Information Systems student passionate about turning coffee into code. Cu
 
 ### 📊 Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DanielGrazina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DanielGrazina&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielGrazina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGrazina&layout=compact&theme=dracula"/>
 </div>
 
 ---
